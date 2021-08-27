@@ -1,3 +1,3 @@
 # schizophrenia-detection
 
-Schizophrenia Detection Using Machine Learning Approach from Social Media Content
+Schizophrenia detection using machine learning approach from social media content
